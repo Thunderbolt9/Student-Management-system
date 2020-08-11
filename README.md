@@ -69,7 +69,7 @@ in connection with a database. The frontend code provides an awesome  'graphical
 
 ![GUI](Output.PNG)
 
-## Links
+## Links 🔗
 
 - Repository: https://github.com/Thunderbolt9/Student-Management-system
   - In case of sensitive bugs like security vulnerabilities, please contact
@@ -78,6 +78,6 @@ in connection with a database. The frontend code provides an awesome  'graphical
 - Related projects:
   - My other project: https://github.com/Thunderbolt9/Covid_19-analysis
   
-## Licensing
+## Licensing ⚖️ 
 
 "The code in this project is licensed under MIT license."
