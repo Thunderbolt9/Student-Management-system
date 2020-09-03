@@ -75,9 +75,13 @@ in connection with a database. The frontend code provides an awesome  'graphical
   - In case of sensitive bugs like security vulnerabilities, please contact
     yadavyash0904@gmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
-- Related projects:
-  - My other project: https://github.com/Thunderbolt9/Covid_19-analysis
-  
+
+- My other project:
+
+Covid-19 Data analysis: https://github.com/Thunderbolt9/Covid_19-analysis
+
+Python 3 specialization (coursera): https://github.com/Thunderbolt9/py3_programming
+
 ## Licensing ⚖️ 
 
 "The code in this project is licensed under MIT license."
