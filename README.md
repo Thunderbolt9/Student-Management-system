@@ -77,10 +77,7 @@ in connection with a database. The frontend code provides an awesome  'graphical
     to improve the security and privacy of this project!
 
 - My other project:
-
-Covid-19 Data analysis: https://github.com/Thunderbolt9/Covid_19-analysis
-
-Python 3 specialization (coursera): https://github.com/Thunderbolt9/py3_programming
+https://github.com/Thunderbolt9?tab=repositories
 
 ## Licensing ⚖️ 
 
