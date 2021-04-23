@@ -1,4 +1,4 @@
-# Student database management system. 🪔
+# Student database management system. 🧑‍💻
 > Welcome viewers 🙂
 
 This project is basically a student management system and can be used to Store , update , read , or delete students records. All these operations are performed by backend code
