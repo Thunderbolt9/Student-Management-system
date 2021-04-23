@@ -8,6 +8,11 @@ in connection with a database. The frontend code provides an awesome  'graphical
 - sqlite.
 - pycharm.
 - sqlite browser.
+
+## Output 💻
+
+![GUI](Output.PNG)
+
 ## Installing 💾 
 
 #### Install python according to your operating system.
@@ -64,10 +69,6 @@ in connection with a database. The frontend code provides an awesome  'graphical
   ```
   - Here you need that logo in fronend.py file.
   - If you want your own logo then store that in same folder and just change name of file in above code.
-
-## Output 💻
-
-![GUI](Output.PNG)
 
 ## Links 🔗
 
